@@ -3,9 +3,13 @@
 ## Overview
 This bash script will read the first 20 characters of the uploaded files, store it, and then delete the file . we can use AWS BATCH for running cron job for this script
 
+## How to create your own key pair
+```
+ssh-keygen -P "" -f "sftp-test-key"
+```
 
 ## For Production
-We can also write lambda function that will trigger when somone upload file and then tha lambda function will call the sftp server and do reuired action
+We can also write lambda function that will trigger when somone upload file and then tha lambda function will call the sftp server and do required action
 
 ##  Prerequisites
 
