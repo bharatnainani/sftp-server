@@ -9,7 +9,7 @@ ssh-keygen -P "" -f "sftp-test-key"
 ```
 
 ## For Production
-We can also write lambda function that will trigger when somone upload file and then tha lambda function will call the sftp server and do required action
+I recommencd for Production the best solution for this is lambda fucntion. As we can get notification on slack and email. As when someone upload file to s3 bucket the lambda will get trigger and we will get notification
 
 ##  Prerequisites
 
