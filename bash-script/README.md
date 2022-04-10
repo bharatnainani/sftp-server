@@ -44,7 +44,7 @@ sh bash.sh
 ```
 
 ## After deployment
-You can again log in to the server and check the content. Now you will see 2 different files.previous files has been removed. the content of the file have now 1st 20 character 
+You can again log in to the server and check the content. Now you will see 2 different files. Previous files has been removed. The content of the file have now 1st 20 character 
 
 ```
 sftp -i ../../keys/bharat sftp-user@s-f91d1041f9ce4951a.server.transfer.us-east-1.amazonaws.com
