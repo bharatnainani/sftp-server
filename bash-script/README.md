@@ -13,8 +13,9 @@ We can also write lambda function that will trigger when somone upload file and 
 
 ##  Prerequisites
 
-For private key to access the sftp server I have given you link for *Pocket Scrambler* use the decryption key and store the content into  *keys/* directory
-lets say *bharat* will be the name of the private key
+For private key to access the sftp server I have given you link for **Pocket Scrambler** use the decryption key and store the content into  *keys/* directory
+
+Lets say **bharat** will be the name of the private key
 
 ```
 cd keys/
@@ -25,7 +26,7 @@ chmod 600 bharat
 
 ## Deployment
 
-Right now I have 2 files inside sftp server  *upload* and *upload2*
+Right now I have 2 files inside sftp server  **upload** and **upload2**
 You can check this by running
 
 ```
@@ -35,7 +36,7 @@ ls
 
 ```
 ## Deploy Bash Script
-You need to be inside *files/* directory
+You need to be inside **files/** directory
 
 ```
 sh bash.sh
