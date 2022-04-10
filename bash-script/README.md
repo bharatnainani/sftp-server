@@ -1,7 +1,7 @@
 # Bash Script
 
 ## Overview
-This bash script will read the first 20 characters of the uploaded files, store it, and then delete the file . we can use AWS BATCH for running cron job for this script
+This bash script will read the first 20 characters of the uploaded files, store it, and then delete the file. We can use AWS BATCH for running cron job for this script
 
 ## How to create your own key pair
 ```
