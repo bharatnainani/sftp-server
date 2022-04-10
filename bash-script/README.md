@@ -19,7 +19,7 @@ Lets say **bharat** will be the name of the private key
 
 ```
 cd keys/
-vim bharat *add the content of private key and save it*
+vim bharat #add the content of private key and save it
 chmod 600 bharat
 
 ```
