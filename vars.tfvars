@@ -1,0 +1,4 @@
+user = {
+    user_name = "bharat"
+    public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDJyxrV8kYPFgAQOPENUTwETQ2Bc2g8W7HzsMEY/XIjSJuBOuzcyfGWbTzb4P78Zq6sfGPvPgVBJOXxTRxzNOtUyTjJ/KoddR7gDDFKlk6PnP4SW1U2tFwJg8mG0E2AepQuC2SEr68ga2RnU77K3bU4Hihzfkj+e/ZSntU4L6o2WRAVnsbSoPrq6bWix8F5lE0nZNJscAWkv0+qMOGDBvxwsMnPESrz6xSggcpHmJoCdJYAaW0Z5cHysatTAKPsn21xLV8q2Pl4+StF2nl7H60MC1QyxMccBXmhvM3kBq5i+pYJItScK858R+jw9CS2/8PQfneUzBp66QBmkX+eMjhrbjGZTpwSUIVmcti9NcmV9uYgtUcc2zi+fr7OtwBMaWr/i1jpUsZwXINIcqvakNLEiSp7237zVBNeMsk4FyiUrvuF7jDcESimeIZiYL6pfuywQESqYEWL+euBdLh4Nud5lBOiYdqBHDGp+dclsQT5yG9PaY+Y62rVor1oGmvEgn8= bharat@Gauravs-MacBook-Pro-2.local"
+}
